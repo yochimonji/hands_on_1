@@ -2,4 +2,4 @@
 テストです。
 Soft Resetした。
 
-testブランチで編集
+mainブランチで編集
