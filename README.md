@@ -3,3 +3,4 @@
 Soft Resetした。
 
 testブランチで編集　2度目
+Pull requestして欲しい
