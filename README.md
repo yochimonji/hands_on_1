@@ -3,3 +3,4 @@
 Soft Resetした。
 
 mainブランチで編集
+Pull requestして欲しい
