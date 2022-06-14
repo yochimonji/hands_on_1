@@ -2,5 +2,5 @@
 テストです。
 Soft Resetした。
 
-testブランチで編集　2度目
+mainブランチで編集
 Pull requestして欲しい
